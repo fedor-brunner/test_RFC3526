@@ -1,0 +1,4 @@
+Program for checking Modular Exponential (MODP) Diffie-Hellman groups
+specified in RFC 3526.
+
+The properties of these MODP groups are described in RFC 2412.
