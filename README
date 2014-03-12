@@ -2,3 +2,17 @@ Program for checking Modular Exponential (MODP) Diffie-Hellman groups
 specified in RFC 3526.
 
 The properties of these MODP groups are described in RFC 2412.
+
+Usage:
+
+> python main.py
+
+or with optimalizations:
+
+> python -OO main.py
+
+or with PyPy just-in-time compiler:
+
+> pypy -OO main.py
+
+The checks should finish in couple of hours on modern PC.
